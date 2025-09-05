@@ -1,0 +1,18 @@
+XXXXXXX2222XXXXXXX
+X              H0X
+X                X
+X  E0      E2    X
+X     E4         X
+X                X
+X    XX   XH1    X
+X     X XX       X
+X    SXX         X
+X     X XX H2    X
+X    XX   X      X
+X                X
+X                X
+X     B2  E1     X
+X                X
+X    E3        H0X
+X                X
+XXXXXXX1111XXXXXXX

@@ -1,5 +1,5 @@
 Inkball — Java + Processing 🎨⚙️
-<p align="center"> <img alt="Inkball banner" src="docs/banner.png" width="820"> </p> <p align="center"> <a href="https://gradle.org/"><img alt="Gradle" src="https://img.shields.io/badge/build-Gradle-02303A"></a> <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-8+-red"></a> <a href="#"><img alt="Processing" src="https://img.shields.io/badge/Processing-3.x-blue"></a> <a href="#"><img alt="License" src="https://img.shields.io/badge/license-Academic-green"></a> </p>
+<p align="center"> <img alt="Inkball banner" src="docs/banner.png" width="820"> </p> <p align="center"> <a href="https://gradle.org/"><img alt="Gradle" src="https://img.shields.io/badge/build-Gradle-02303A"></a> </p>
 
 A minimalist, testable re-implementation of the classic Inkball puzzle: guide colored balls into matching holes using player-drawn lines. Built for Java 8 with the Processing library and Gradle.
 
